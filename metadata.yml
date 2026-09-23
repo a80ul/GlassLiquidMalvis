@@ -1,0 +1,16 @@
+# GlassLiquidMalvis package manifest
+name: GlassLiquidMalvis
+version: 1.0.0
+kind: Seelen UI theme bundle
+upstream: https://github.com/burgess1202/aurora-glass-seelen-ui
+upstreamLicense: AGPL-3.0
+license: AGPL-3.0
+files:
+  - GlassLiquidMalvis.slu
+  - assets/logo-glm.png
+  - README.md
+  - NOTICE.md
+  - LICENSE
+  - CHANGELOG.md
+  - CREDITS.md
+  - metadata.yml

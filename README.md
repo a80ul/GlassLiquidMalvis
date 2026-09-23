@@ -43,3 +43,11 @@ performance mode plus disabled dock thumbnails lower the cost further.
 Derivative of Aurora Glass by burgess1202, link above. GlassLiquidMalvis keeps
 the look and removes the parts that cost frames.
 
+## License
+
+This build is released under the GNU Affero General Public License v3.0,
+the same license as the upstream Aurora Glass project. When creating this
+repo on GitHub, choose the AGPL-3.0 license template so the LICENSE file
+is generated. See NOTICE.md for the modification statement and upstream
+attribution. This repo is not affiliated with Seelen Inc.
+
