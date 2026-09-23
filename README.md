@@ -43,8 +43,3 @@ performance mode plus disabled dock thumbnails lower the cost further.
 Derivative of Aurora Glass by burgess1202, link above. GlassLiquidMalvis keeps
 the look and removes the parts that cost frames.
 
-## Ringkasan
-
-Tema kaca untuk Seelen UI: dock, toolbar, launcher dan popup. Port dari Aurora
-Glass dengan animasi kontinu dibekukan, cocok untuk GPU lemah. Cara pasang:
-impor file `.slu` lewat Settings Seelen, lalu aktifkan di daftar Themes.
